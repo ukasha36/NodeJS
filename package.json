@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.3.4"
+  },
+  "name": "node-practise",
+  "version": "1.0.0",
+  "main": "Index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
